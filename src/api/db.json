@@ -1,0 +1,43 @@
+{
+  "productos": [
+    {
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "producto": "HomeSpray",
+      "marca": "Nordica",
+      "aroma": "Sándalo hindú",
+      "precio": "900",
+      "id": 3
+    },
+    {
+      "producto": "HomeSpray",
+      "marca": "Nordica",
+      "aroma": "Magnolia",
+      "precio": "900",
+      "id": 4
+    },
+    {
+      "producto": "Vela",
+      "marca": "Nordica",
+      "aroma": "Lima y verbena",
+      "precio": "950",
+      "id": 5
+    },
+    {
+      "producto": "HomeSpray",
+      "marca": "Nordica",
+      "aroma": "Tilo",
+      "precio": "950",
+      "id": 6
+    },
+    {
+      "producto": "HomeSpray",
+      "marca": "Nordica",
+      "aroma": "Lavanda",
+      "precio": "900",
+      "id": 7
+    }
+  ]
+}
